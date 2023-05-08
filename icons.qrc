@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>icons/square.png</file>
+     <file>icons/brightness.png</file>
+     <file>icons/lantern.png</file>
+     <file>icons/candle-lamp.png</file>
+ </qresource>
+ </RCC>
